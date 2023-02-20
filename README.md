@@ -1,6 +1,13 @@
 # Employee-and-Payroll-management-system
 This Software is designed to make the existing manual system automatic with the help of computerized equipment and full-edged computer software, fulfilling their requirements, so that their valuable data and information can be stored for a longer period with easy access and manipulation of the same using.
 
+## Available Technologies:
+* Languages: Python
+* Database: sqlite3
+* Development Platform: Pycharm
+
+## Tools Used:
+* Editor Used: Pycharm for Python, sqlite3
 
 # Demo of the system
 
